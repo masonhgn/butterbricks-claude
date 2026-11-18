@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "butterbricks": { "type": "http", "url": "https://butterbricks.org/mcp" }
+  }
+}

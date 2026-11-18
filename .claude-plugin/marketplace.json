@@ -1,0 +1,11 @@
+{
+  "name": "butterbricks",
+  "owner": { "name": "Butterbricks", "email": "support@butterbricks.org" },
+  "plugins": [
+    {
+      "name": "butterbricks",
+      "source": "./",
+      "description": "A tutor for Butterbricks: algorithm patterns one small idea at a time, mock interviews and recognition drills."
+    }
+  ]
+}
