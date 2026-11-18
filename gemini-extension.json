@@ -1,0 +1,11 @@
+{
+  "name": "butterbricks",
+  "version": "1.1.0",
+  "description": "A tutor for Butterbricks (butterbricks.org): algorithm patterns one small idea at a time, your progress, mock interviews and recognition drills.",
+  "mcpServers": {
+    "butterbricks": {
+      "httpUrl": "https://butterbricks.org/mcp"
+    }
+  },
+  "contextFileName": "skills/butterbricks-tutor/SKILL.md"
+}

@@ -1,8 +1,17 @@
 {
   "name": "butterbricks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A tutor for Butterbricks (butterbricks.org): learn algorithm patterns one small idea at a time, with hints instead of answers, mock interviews and pattern-recognition drills.",
-  "author": { "name": "Butterbricks", "email": "support@butterbricks.org", "url": "https://butterbricks.org" },
-  "homepage": "https://butterbricks.org/claude/",
-  "keywords": ["interview prep", "algorithms", "tutor", "leetcode"]
+  "author": {
+    "name": "Butterbricks",
+    "email": "support@butterbricks.org",
+    "url": "https://butterbricks.org"
+  },
+  "homepage": "https://butterbricks.org/ai/",
+  "keywords": [
+    "interview prep",
+    "algorithms",
+    "tutor",
+    "leetcode"
+  ]
 }
